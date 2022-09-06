@@ -12,3 +12,7 @@
 ### Технологии: 
 
 HTML, CSS, Git.
+
+___
+
+[Ссылка на сайт](https://nameless501.github.io/how-to-learn/)
