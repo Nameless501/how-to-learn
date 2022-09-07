@@ -1,4 +1,5 @@
-# __How to learn__ :memo:
+# __<p align="center">How to learn :memo:</p>__
+### <div align="center" ><a href="https://nameless501.github.io/how-to-learn/">Посмотреть на gh-pages</a></div>
 
 ### Описание: 
 
@@ -19,4 +20,6 @@ HTML, CSS, Git.
 
 ___
 
-[Ссылка на сайт](https://nameless501.github.io/how-to-learn/)
+Требования для запуска:
+
+Браузеры, поддерживающие ES6: Chrome(версия 61 и новее, мобильная версия - 104 и новее); Edge(версия 79 и новее); Safari(версия 11 и новее); Firefox(версия 60 и новее, Firefox Mobile - версия 101 и новее); Opera(версия 48 и новее, Opera Mobile - версия 64 и новее)
